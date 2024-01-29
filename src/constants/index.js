@@ -147,7 +147,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Portfolio',
         description: 'A portfolio made using React and Three.JS for 3D animations.',
-        link: 'https://github.com/alamshaikh9025/portfolio',
+        link: 'https://github.com/alamshaikh9025/Portfolio-alam',
     },
     {
         iconUrl: rockstar,
